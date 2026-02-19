@@ -108,6 +108,7 @@ Batch Processing & Reports
 | 9 | 0.0032 |
 | 10 | 0.0030 |
 
+<img width="1223" height="715" alt="image" src="https://github.com/user-attachments/assets/ee5c74bf-86c4-4272-816c-838c5a305f57" />
 
 
 ---
